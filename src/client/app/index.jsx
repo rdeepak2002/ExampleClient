@@ -2,7 +2,7 @@ import React from 'react';
 import {render} from 'react-dom';
 import { Button } from 'react-bootstrap';
 
-import AwesomeComponent from './AwesomeComponent.jsx';
+import AwesomeComponent from './view/AwesomeComponent.jsx';
 
 class App extends React.Component {
   render () {

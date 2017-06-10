@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/rdeepak2002/ExampleClient#readme",
   "dependencies": {
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-bootstrap": "^0.31.0",
     "react-dom": "^15.5.4",
